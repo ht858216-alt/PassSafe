@@ -1,0 +1,20 @@
+PASS SAFE — START HERE
+
+1) Install Node.js LTS if it is not already installed.
+2) Extract the PassSafe folder.
+3) Open the PassSafe folder in VS Code.
+4) Open Terminal inside that folder.
+5) Run:
+   npm install
+   npm run dev
+6) Open the localhost URL shown by Vite.
+
+To create a production build:
+   npm run build
+
+Important:
+- This project is a React + Vite project.
+- The breach check is optional and uses HIBP Pwned Passwords k-anonymity range API.
+- Use made-up test passwords for classroom demonstrations.
+- Do not put real passwords in screenshots or presentations.
+- See README.md, PROJECT_DOCUMENTATION.md, DEPLOYMENT.md, and PassSafe_Presentation.pptx.
